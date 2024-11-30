@@ -3,7 +3,7 @@ import "./hero.css";
 
 const Hero = () => {
   return (
-    <div className=''>Hero</div>
+    <div className='Hero'>Hero</div>
   )
 }
 
